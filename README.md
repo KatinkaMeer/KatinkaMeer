@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 **Reachy Tic Tac Toe** is a collaborative robotics project built with **Python and the Reachy SDK**.
 
-You can check out the GameStrategy-Teams original repository [here](https://github.com/navesaurus/Reachy_tictactoe).
+[GameStrategy-Teams original repository](https://github.com/navesaurus/Reachy_tictactoe)
 
 ---
 
