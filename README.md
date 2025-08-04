@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Hi there, I'm Katinka! 🚀
 -->
 
-## Featured Projects 💻
+## Other Projects 💻
 ### [Reachy Tic Tac Toe](https://github.com/navesaurus/Reachy_tictactoe)
 
 **Reachy Tic Tac Toe** is a collaborative robotics project built with **Python and the Reachy SDK**.
